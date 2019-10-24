@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PRImageExtension_Example' do
+  pod 'PRImageExtension', :path => '../'
+
+  target 'PRImageExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
