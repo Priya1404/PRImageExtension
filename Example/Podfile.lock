@@ -1,0 +1,16 @@
+PODS:
+  - PRImageExtension (0.1.0)
+
+DEPENDENCIES:
+  - PRImageExtension (from `../`)
+
+EXTERNAL SOURCES:
+  PRImageExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PRImageExtension: 3b4c8f17d30b99b14e20c0be5030083279920073
+
+PODFILE CHECKSUM: e3a4dc39be6befd2bc48e21f72500a380be27f46
+
+COCOAPODS: 1.8.1

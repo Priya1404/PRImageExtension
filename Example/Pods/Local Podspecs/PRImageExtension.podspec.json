@@ -1,0 +1,22 @@
+{
+  "name": "PRImageExtension",
+  "version": "0.1.0",
+  "summary": "A short description of PRImageExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Priya Srivastava/PRImageExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Priya Srivastava": "priya.srivastava@arvindinternet.com"
+  },
+  "source": {
+    "git": "https://github.com/Priya Srivastava/PRImageExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PRImageExtension/Classes/**/*"
+}
